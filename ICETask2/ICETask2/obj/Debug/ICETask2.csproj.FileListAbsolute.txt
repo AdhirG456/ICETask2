@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\ICETask2\ICETask2\obj\Debug\ICETask2.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ICETask2\ICETask2\obj\Debug\ICETask2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ICETask2\ICETask2\bin\Debug\ICETask2.exe.config
+C:\Users\admin\source\repos\ICETask2\ICETask2\bin\Debug\ICETask2.exe
+C:\Users\admin\source\repos\ICETask2\ICETask2\bin\Debug\ICETask2.pdb
+C:\Users\admin\source\repos\ICETask2\ICETask2\obj\Debug\ICETask2.exe
+C:\Users\admin\source\repos\ICETask2\ICETask2\obj\Debug\ICETask2.pdb
